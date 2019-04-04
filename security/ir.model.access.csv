@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_manufacturing_raw_material_manufacturing_raw_material,manufacturing_raw_material.manufacturing_raw_material,model_manufacturing_raw_material_manufacturing_raw_material,,1,0,0,0
+access_origin_type,access_origin_type,model_origin_type,base.group_user,1,0,0,0
+access_raw_material_type,access_raw_material_type,model_raw_material_type,base.group_user,1,0,0,0
